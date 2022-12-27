@@ -6,8 +6,8 @@ Trabalhando nos finalmentes de vários projetos, tentando escrever mais para con
 
 <div>
 <a href="https://github.com/elequiel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elequiel&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elequiel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contatos:
